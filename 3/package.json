@@ -1,0 +1,15 @@
+{
+  "name": "problem3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream.js",
+  "scripts": {
+    "start": "node stream.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghifari Indra Gunawan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

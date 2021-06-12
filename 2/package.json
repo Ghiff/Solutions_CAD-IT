@@ -1,0 +1,16 @@
+{
+  "name": "sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem2.js",
+  "scripts": {
+    "start": "node problem2.js",
+    "test": "mocha --exit"
+  },
+  "author": "Ghifari Indra Gunawan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.0"
+  }
+}
